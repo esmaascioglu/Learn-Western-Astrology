@@ -1,0 +1,12 @@
+{"question": "What does transiting Saturn conjunct the natal Sun mean?", "in_scope": true, "expected_book": "planets-in-transit", "must_include_any": ["saturn", "sun"]}
+{"question": "What happens during a Saturn return and how often does it occur?", "in_scope": true, "expected_book": "planets-in-transit", "must_include_any": ["saturn"]}
+{"question": "What does transiting Jupiter trine the natal Moon signify?", "in_scope": true, "expected_book": "planets-in-transit", "must_include_any": ["jupiter", "moon"]}
+{"question": "What is the meaning of transiting Pluto square the natal Sun?", "in_scope": true, "expected_book": "planets-in-transit", "must_include_any": ["pluto", "sun"]}
+{"question": "What does transiting Uranus conjunct the natal Ascendant indicate?", "in_scope": true, "expected_book": "planets-in-transit", "must_include_any": ["uranus", "ascendant"]}
+{"question": "How do you calculate the Ascendant from the sidereal time?", "in_scope": true, "expected_book": "astrology-technics-ethics", "must_include_any": ["ascendant", "sidereal"]}
+{"question": "How are the cusps of the houses determined in a horoscope?", "in_scope": true, "expected_book": "astrology-technics-ethics", "must_include_any": ["cusp", "house"]}
+{"question": "What does the Sun represent in a natal chart?", "in_scope": true, "expected_book": null, "must_include_any": ["sun"]}
+{"question": "How do I interpret a synastry chart between two partners' planets?", "in_scope": true, "expected_book": null, "must_include_any": ["synastry", "relationship", "composite"], "coverage_probe": true}
+{"question": "What is the capital of France?", "in_scope": false, "expected_book": null, "must_include_any": []}
+{"question": "How do I bake a sourdough bread at home?", "in_scope": false, "expected_book": null, "must_include_any": []}
+{"question": "What are the common side effects of ibuprofen?", "in_scope": false, "expected_book": null, "must_include_any": []}

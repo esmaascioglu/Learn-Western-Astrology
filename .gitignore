@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Model & HF caches
+.cache/
+.hf_cache/
+*.bin
+*.safetensors
+
+# Tooling
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.ragas/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.qodo/
+
+# Local artifacts
+artifacts/
+*.log
+
+# Source corpus — copyrighted book PDFs are NOT redistributed with the repo.
+# Contributors supply their own under Data/ and run `astro ingest`.
+Data/
