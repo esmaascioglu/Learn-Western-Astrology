@@ -171,9 +171,6 @@ rank-based and carry no absolute relevance signal, so out-of-scope rejection
 (`make eval`) is weak until a calibrated relevance gate (e.g. dense cosine
 floor) is added.
 
-A Turkish, file-by-file walkthrough of the codebase lives in
-[`docs/CODEBASE.md`](docs/CODEBASE.md).
-
 ## License
 
 MIT — see [LICENSE](LICENSE). Source book content remains under its respective copyright.
